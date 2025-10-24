@@ -242,49 +242,42 @@ This file contains the API keys for the Google services used in the project.
 ## Pages Overview
 
 -   **`index.php`**: The landing page of the website, providing an introduction to LearnHub.
--   <img width="1779" height="882" alt="Screenshot 2025-10-06 183929" src="https://github.com/user-attachments/assets/45c80c9b-bec6-40a4-b110-1be82fc5edd4" />
-
-    <img width="1762" height="876" alt="Screenshot 2025-10-06 184016" src="https://github.com/user-attachments/assets/f2303683-b340-45b6-a963-ee988c4e143e" />
-    
-    <img width="1771" height="896" alt="Screenshot 2025-10-06 184035" src="https://github.com/user-attachments/assets/77936f37-b96e-4634-9cd8-0cbe532f5a01" />
-    
-    <img width="1768" height="893" alt="Screenshot 2025-10-06 184055" src="https://github.com/user-attachments/assets/fb9bc60a-f820-4d5e-a2ea-2b98cba2ce0a" />
+-   <img width="1779" height="882" alt="Screenshot 2025-10-06 183929" src="https://github.com/user-attachments/assets/699ac0ee-3f95-4c6d-9654-187d2c035f10" />
+    <img width="1762" height="876" alt="Screenshot 2025-10-06 184016" src="https://github.com/user-attachments/assets/b71ecc36-a298-467f-b831-d7ec75d8ffde" />
+    <img width="1768" height="893" alt="Screenshot 2025-10-06 184055" src="https://github.com/user-attachments/assets/de9820a6-f006-4139-877d-4b5318e99bad" />
     
 -   **`register.php`**: Allows new users to create an account.
--   <img width="913" height="913" alt="Screenshot 2025-10-06 184130" src="https://github.com/user-attachments/assets/4b2ebfd3-8084-4459-878e-4f1fa172300a" />
+-   <img width="913" height="913" alt="Screenshot 2025-10-06 184130" src="https://github.com/user-attachments/assets/48228590-286e-4107-89d1-45120c58a9b9" />
 
 -   **`login.php`**: Allows existing users to log in.
--   <img width="1628" height="902" alt="Screenshot 2025-10-06 184157" src="https://github.com/user-attachments/assets/afee5806-e307-4459-a9d6-563b76febb5c" />
+-   <img width="1628" height="902" alt="Screenshot 2025-10-06 184157" src="https://github.com/user-attachments/assets/74b6b8c6-c71b-4117-934b-909d624712ce" />
 
 -   **`gauth.php` & `google_register.php`**: Handle the Google authentication and registration process.
--   <img width="1624" height="717" alt="Screenshot 2025-10-06 193315" src="https://github.com/user-attachments/assets/664e0612-d34a-4356-a2ae-eb4679f41086" />
+-   <img width="1624" height="717" alt="Screenshot 2025-10-06 193315" src="https://github.com/user-attachments/assets/01c53615-c840-43a3-9c0b-54ae834822e4" />
 
 -   **`dashboard.php`**: The user's personal dashboard, showing their uploaded notes, bookmarked notes, and statistics.
--   <img width="1865" height="888" alt="Screenshot 2025-10-06 184328" src="https://github.com/user-attachments/assets/1b7423e0-88b3-4c5e-96a4-997f2da0fa7b" />
+-   <img width="1865" height="888" alt="Screenshot 2025-10-06 184328" src="https://github.com/user-attachments/assets/bb0ed0e4-c4d9-447b-9f44-731d29243140" />
 
 -   **`upload.php`**: A page with a form to upload new notes.
--   <img width="981" height="893" alt="Screenshot 2025-10-06 184304" src="https://github.com/user-attachments/assets/5787d763-7d44-4e6b-bb38-43c8be5ba241" />
+-   <img width="981" height="893" alt="Screenshot 2025-10-06 184304" src="https://github.com/user-attachments/assets/c06b165b-115c-44fe-8558-ee99e36f29cb" />
 
 -   **`notes.php`**: The main page for browsing, searching, and filtering all available notes.
--   <img width="1557" height="890" alt="Screenshot 2025-10-06 184238" src="https://github.com/user-attachments/assets/01ed38eb-6b29-4069-9d5b-4bdbabf5b538" />
+-   <img width="1557" height="890" alt="Screenshot 2025-10-06 184238" src="https://github.com/user-attachments/assets/a281e9e3-b6a0-4fb8-a919-9074ade917aa" />
 
 -   **`download.php`**: A script that handles the downloading of note files.
 -   **`delete_note.php`**: A script that handles the deletion of a user's own notes.
 -   **`like_note.php`**: A script that processes the liking and unliking of notes.
 -   **`bookmark_note.php`**: A script that handles the bookmarking and unbookmarking of notes.
 -   **`admin_blog.php`**: A page for administrators to post and manage blog content.
--   <img width="1621" height="893" alt="Screenshot 2025-10-06 184358" src="https://github.com/user-attachments/assets/e6d0a6d8-67fc-4d19-9e37-58a962ca7297" />
+-   <img width="1621" height="893" alt="Screenshot 2025-10-06 184358" src="https://github.com/user-attachments/assets/0d91ba6f-0212-4bb9-bb45-ee7daab6159d" />
 
 -   **`privacy_policy.php`**: A page displaying the website's privacy policy.
--   <img width="682" height="732" alt="Screenshot 2025-10-06 184435" src="https://github.com/user-attachments/assets/c473b8af-f468-4996-950c-0247b849a9af" />
-
+-   <img width="682" height="732" alt="Screenshot 2025-10-06 184435" src="https://github.com/user-attachments/assets/35bb5001-86a4-48a2-a464-9dff16bb417a" />
 -   **`logout.php`**: A script to log the user out and end their session.
 
 -   ##CHATBOT
 -   An AI-powered virtual assistants designed to interact with users in natural language, simulating human-like conversations.it can clarify the users douth's.
--   <img width="1773" height="885" alt="Screenshot 2025-10-06 194159" src="https://github.com/user-attachments/assets/e3e60da3-24ca-43e8-a747-0f46e6c6d07e" />
-    <img width="1804" height="902" alt="Screenshot 2025-10-06 194237" src="https://github.com/user-attachments/assets/10cc2baa-cc1a-4b2c-84f2-00029fcf4bea" />
-
+-   <img width="1773" height="885" alt="Screenshot 2025-10-06 194159" src="https://github.com/user-attachments/assets/c84570df-ad20-47f2-bb75-5adebbe1178f" />
 
   Why PHP?
 
