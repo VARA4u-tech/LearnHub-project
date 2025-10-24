@@ -1,0 +1,48 @@
+/* Add your custom CSS here */
+
+/* Basic hover effect for demonstration */
+a:hover, .hover-effect {
+    color: #007bff; /* Example: change text color on hover */
+    text-decoration: underline; /* Example: underline on hover */
+}
+
+/* For touch devices, a class to simulate hover */
+.touch-hover {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+/* Ensure all images are responsive by default */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Fade-in animation for main content */
+.fade-in {
+    animation: fadeIn 0.5s ease-out forwards;
+    opacity: 0;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Scroll-reveal animation */
+.scroll-reveal {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.scroll-reveal.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+}
